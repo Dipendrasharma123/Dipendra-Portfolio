@@ -26,6 +26,7 @@ import mcLogo from './assets/tech_logo/mc.png';
 import figmaLogo from './assets/tech_logo/figma.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
+import dsaLogo from './assets/tech_logo/dsa.png';
 
 // Experience Section Logo's
 import rkmLogo from './assets/company_logo/rkm.png';
@@ -81,6 +82,7 @@ export const SkillsInfo = [
       { name: 'Python', logo: pythonLogo },
       { name: 'JavaScript', logo: javascriptLogo },
       { name: 'TypeScript', logo: typescriptLogo },
+      { name: 'DSA', logo: dsaLogo },
     ],
   },
   {

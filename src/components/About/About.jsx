@@ -40,12 +40,11 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-           I am a passionate full-stack developer with hands-on experience
-            in building dynamic and scalable web applications. Proficient
-             in both front-end and back-end development, I specialize in 
-             the MERN stack along with Java, SQL, and NoSQL technologies. 
-             My focus lies in creating efficient, user-friendly solutions 
-             that blend functionality with modern design.
+           I am a passionate full-stack developer experienced in building dynamic and
+            scalable web applications. Skilled in both front-end and back-end development,
+            I specialize in the MERN stack along with Java and SQL. I focus on creating 
+            efficient, user-friendly solutions that combine functionality with modern 
+            design, backed by a solid foundation in Data Structures and Algorithms (DSA).
           </p>
           {/* Resume Button */}
           <a
